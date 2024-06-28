@@ -81,7 +81,7 @@ DATABASES = {
         "ENGINE": "django.db.backends.mysql",
         'NAME': "schoolappdatabase",
         "USER": "root",
-        "PASSWORD": "<<<Place Your Password>>>",
+        "PASSWORD": "<<<your password>>>",
         "HOST": "127.0.0.1",
         "PORT": "3306",
     }
